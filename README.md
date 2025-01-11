@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React , Machine Learning<br>👯 I’m looking to collaborate on CSE , AI , Android Development<br>🤝 I’m looking for help with Tech Giants<br>🌱 I’m currently learning Angular , Databases<br>💬 Ask me about Android and Java<br>⚡ Fun fact Someone who likes the Teal Color
+🔭 I’m currently working on React , Machine Learning<br>👯 I’m looking to collaborate on CSE , WEB Development<br>🤝 I’m looking for help with Tech Giants<br>🌱 I’m currently learning Next.js , Git , Databases<br>💬 Ask me about Web Dev and Java<br>⚡ Fun fact Someone who is Laconic .
 
 
 ## 🌐 Socials:
