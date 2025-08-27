@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React , Machine Learning<br>👯 I’m looking to collaborate on CSE , WEB Development<br>🤝 I’m looking for help with Tech Giants<br>🌱 I’m currently learning Next.js , Git , Databases<br>💬 Ask me about Web Dev and Java<br>⚡ Fun fact Someone who is Laconic .
+🔭 I’m currently working on Spring , Machine Learning, AI<br>👯 I’m looking to collaborate on CSE , WEB Development<br>🤝 I’m looking for to enhance my skills<br>🌱 I’m currently learning  Git , Databases<br>💬 Ask me about Web Dev and Java<br>⚡ Fun fact Someone who is Laconic .
 
 
 ## 🌐 Socials:
